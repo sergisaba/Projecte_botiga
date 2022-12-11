@@ -1,0 +1,1 @@
+Usuari per administració = admin@admin.com / contrasenya = admin
